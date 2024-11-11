@@ -1,2 +1,2 @@
 # Simple-Calculator
-Simple Calculator in C++ is a Calculator that can be used to perform all the basic arithmetical operations viz. addition, subtraction, multiplication and division on numbers.
+A simple Calculator created in C++ to compute all the basic arithmetical operations viz. addition, subtraction, multiplication and division on numbers.
